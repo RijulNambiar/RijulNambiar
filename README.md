@@ -10,7 +10,7 @@
 
 💬 Ask me about **Java, IoT, ESP32, Embedded Systems and Hackathons**
 
-⚡ **7× National Hackathon Winner** with ₹50,000+ in prize winnings
+⚡ **7× National Hackathon Winner** 
 
 <br clear="right"/>
 
