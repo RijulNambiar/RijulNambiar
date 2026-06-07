@@ -1,18 +1,18 @@
-## About Me
+# About Me
 
-🔭 I’m currently working on **Java Projects, IoT Systems & Edge AI Applications**
+<img align="right" width="280" src="https://github.com/user-attachments/assets/c552b884-54b5-41f3-ad64-07c82a9dbbce" />
 
-👯 I’m looking to collaborate on **Java, Spring Boot, IoT and Open Source Projects**
+🔭 Currently building **Java Applications, IoT Systems & Edge AI Solutions**
 
-🤝 I’m looking for help with **Backend Development and System Design**
+🌱 Learning **Spring Boot, DSA, System Design & Full-Stack Development**
 
-🌱 I’m currently learning **Data Structures & Algorithms, Spring Boot and Full Stack Development**
+👯 Open to collaborating on **Java, Backend and Open Source Projects**
 
-💬 Ask me about **Java, IoT, ESP32, Embedded Systems, Sensor Integration and Hackathons**
+💬 Ask me about **Java, IoT, ESP32, Embedded Systems and Hackathons**
 
-⚡ Fun fact: **I've won 7+ national hackathons and enjoy turning ideas into working products.**
+⚡ **7× National Hackathon Winner** with ₹50,000+ in prize winnings
 
-
+<br clear="right"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rijulnambiar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijulnambiar@gmail.com) 
 
