@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!!+I+am+Rijul+Nambiar+P" alt="Typing SVG" />
+  </a>
+</p>
+
 # About Me
 
 <img align="right" width="280" src="https://github.com/user-attachments/assets/c552b884-54b5-41f3-ad64-07c82a9dbbce" />
